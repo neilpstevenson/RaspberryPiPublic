@@ -14,3 +14,7 @@ sudo apt-get install gtkmm-3.0
 
 # for julius speech recognition
 sudo apt-get install build-essential zlib1g-dev libsdl2-dev libasound2-dev
+
+# for opencv demos etc.
+sudo apt install libhdf5-dev
+sudo apt install libatlas3-base libwebp6 libtiff5 libjasper1 libopenexr23 libqtgui4 libqt4-test libqtcore4
