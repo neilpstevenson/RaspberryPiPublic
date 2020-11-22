@@ -19,3 +19,5 @@ sudo apt-get install build-essential zlib1g-dev libsdl2-dev libasound2-dev
 sudo apt install libhdf5-dev
 sudo apt install libatlas3-base libwebp6 libtiff5 libjasper1 libopenexr23 
 #sudo apt install libqtgui4 libqt4-test libqtcore4
+# libilmbase12 libgstreamer1.0-0 libavcodec57 libavformat57 libavutil55 libswscale4
+sudo apt-get install libopenblas-dev liblapack-dev libatlas-base-dev

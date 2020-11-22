@@ -13,4 +13,9 @@ pip3 install imageio
 pip3 install pytesseract
 pip3 install dlib
 pip3 install scipy
+#pip3 install dlib
+#pip3 install scipy
+# opencv-ocr:
+#pip3 install pytesseract
+pip3 install matplotlib
 
