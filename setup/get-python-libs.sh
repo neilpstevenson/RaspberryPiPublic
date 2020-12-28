@@ -19,3 +19,5 @@ pip3 install scipy
 #pip3 install pytesseract
 pip3 install matplotlib
 
+# Pimoroni
+pip3 install pimoroni-ioexpander
